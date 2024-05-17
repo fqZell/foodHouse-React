@@ -1,0 +1,23 @@
+.ReactModal__Content.ReactModal__Content--after-open {
+    width: 50%;
+    right: 24px;
+    inset: 0;
+    right: 0;
+}
+
+.ReactModal-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end;
+}
+
+.ReactModal-close {
+    font-size: 20px;
+    color: #818282;
+    cursor: pointer;
+}
+
+.ReactModal-close:hover {
+    color: #FE8C01;
+}
